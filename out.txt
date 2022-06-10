@@ -1,0 +1,695 @@
+1	0	1
+1	1	2
+2	1	Wild Series - Season 6, Week 1  title
+2	15	4/18/2022   week.date
+3	1	Brown Conference    conference.title
+
+
+4	0	WIN                 match.outcome
+4	1	Bread Likely!       match.home_team
+4	2	vs
+4	4	F2L: Celadon        match.away_team
+5	6	70 pts              match.home_team.series__pts
+5	7	3-1                 match.home_team.series_record
+5	10	2-1-1               match.away_team.series_record
+5	11	57 pts              match.away_team.series_pts
+6	8	15                  match.home_team_pts
+6	11	11                  match.away_team_pts
+7	1	Bread Likely!
+7	2	Classes
+7	4	Ban
+7	6	 Score
+7	8	F2L: Celadon
+7	9	Classes
+7	11	Ban
+
+
+9	1	4-1
+9	2	AgentPWE
+9	3	Kael-OTK Druid
+9	4	Quest Hunter
+9	5	Even Paladin
+9	6	Pirate Rogue
+
+9	10	3-2
+
+9	12	0-4
+9	13	MediOger
+9	14	Kael-Dragon Druid
+9	15	Pirate Rogue
+9	16	Freeze Shaman
+9	17	Oger Warlock
+9	19	?
+
+10	1	2-2
+10	2	AlwaysJustinTime
+10	3	Kael-Dragon Druid
+10	4	Quest Hunter
+10	5	Pirate Rogue
+10	6	Even Warlock
+10	8	Kael-Dragon Druid
+10	10	3-1
+
+10	12	2-2
+10	13	SwaguarTV
+10	14	Kael-Dragon Druid
+10	15	Secret Hunter
+10	16	Switcheroo Priest
+10	17	Other Rogue
+10	19	Pirate Rogue
+
+11	1	3-2
+11	2	Nice Jewish Owl
+11	3	Kael-OTK Druid
+11	4	Mech Paladin
+11	5	Pirate Rogue
+11	6	Odd Warrior
+11	8	Kael-OTK Druid
+11	10	2-3
+11	12	3-1
+11	13	ataraxial
+11	14	Kael-OTK Druid
+11	15	Even Hunter
+11	16	Secret Mage
+11	17	Even Warlock
+11	19	Mech Paladin
+
+12	1	2-2
+12	2	MoleStar
+12	3	Kael-OTK Druid
+12	4	Quest Hunter
+12	5	Even Warlock
+12	6	Control Warrior
+12	8	Pirate Rogue
+12	10	1-3
+12	12	3-2
+12	13	rebobson
+12	14	Kael-OTK Druid
+12	15	Switcheroo Priest
+12	16	Pirate Rogue
+12	17	Freeze Shaman
+12	19	Control Warrior
+
+13	1	2-2
+13	2	SuperChicken
+13	3	Kael-OTK Druid
+13	4	Quest Hunter
+13	5	Pirate Rogue
+13	6	Freeze Shaman
+13	10	3-0
+13	12	4-1
+13	13	Itachi
+14	1	Capt
+14	2	AlwaysJustinTime
+14	12	Capt
+14	13	rebobson
+15	0	LOSS
+15	1	WTF
+15	2	vs
+15	4	The Weasil Tunnelers
+16	6	61 pts
+16	7	2-2
+16	10	1-2-1
+16	11	51 pts
+17	8	10
+17	11	12
+18	1	WTF
+18	2	Classes
+18	4	Ban
+18	6	 Score
+18	8	The Weasil Tunnelers
+18	9	Classes
+18	11	Ban
+20	1	3-1
+20	2	Slaad
+20	3	Kael-Dragon Druid
+20	4	Pirate Rogue
+20	5	Freeze Shaman
+20	6	Even Warlock
+20	8	Quest Hunter
+20	10	3-0
+20	12	1-3
+20	13	RighteousJammies
+20	14	Quest Hunter
+20	15	Other Mage
+20	16	Mech Paladin
+20	17	Switcheroo Priest
+20	19	Kael-Dragon Druid
+21	1	1-3
+21	2	LaboreSangre
+21	10	0-3
+21	12	2-2
+21	13	MortalWombat
+21	14	Mech Mage
+21	15	Mech Paladin
+21	16	Pirate Rogue
+21	17	DMH Warrior
+22	1	2-2
+22	2	Schmoopiedady
+22	3	Odd Druid
+22	4	Even Hunter
+22	5	Secret Mage
+22	6	Aggro Priest
+22	8	Pirate Warrior
+22	10	2-3
+22	12	1-3
+22	13	SKItLLeZ
+22	14	Quest Hunter
+22	15	Switcheroo Priest
+22	16	Pirate Rogue
+22	17	Pirate Warrior
+22	19	Even Hunter
+23	1	3-1
+23	2	Nops
+23	3	Dragon Druid
+23	4	Mech Mage
+23	5	Mech Paladin
+23	6	Inner-Fire Priest
+23	8	Kael-OTK Druid
+23	10	3-0
+23	12	0-1
+23	13	PWeasil
+23	14	Kael-OTK Druid
+23	15	Quest Hunter
+23	16	Mech Paladin
+23	17	Pirate Rogue
+23	19	Mech Paladin
+24	1	2-2
+24	2	BIoodRose
+24	3	Kael-OTK Druid
+24	4	Even Hunter
+24	5	Pirate Rogue
+24	6	Freeze Shaman
+24	8	Even Paladin
+24	10	0-3
+24	12	2-3
+24	13	Nineeyebrows
+24	14	Kael-OTK Druid
+24	15	Quest Hunter
+24	16	Even Paladin
+24	17	Pirate Rogue
+24	19	Kael-OTK Druid
+25	1	Capt
+25	2	DoctorBOMD
+25	12	Capt
+25	13	PWeasil
+26	0	LOSS
+26	1	F2L: Celadon
+26	2	vs
+26	4	Bread Likely!
+27	6	57 pts
+27	7	2-1-1
+27	10	3-1
+27	11	70 pts
+28	8	11
+28	11	15
+29	1	F2L: Celadon
+29	2	Classes
+29	4	Ban
+29	6	 Score
+29	8	Bread Likely!
+29	9	Classes
+29	11	Ban
+31	1	0-4
+31	2	MediOger
+31	3	Kael-Dragon Druid
+31	4	Pirate Rogue
+31	5	Freeze Shaman
+31	6	Oger Warlock
+31	8	?
+31	10	2-3
+31	12	4-1
+31	13	AgentPWE
+31	14	Kael-OTK Druid
+31	15	Quest Hunter
+31	16	Even Paladin
+31	17	Pirate Rogue
+32	1	2-2
+32	2	SwaguarTV
+32	3	Kael-Dragon Druid
+32	4	Secret Hunter
+32	5	Switcheroo Priest
+32	6	Other Rogue
+32	8	Pirate Rogue
+32	10	1-3
+32	12	2-2
+32	13	AlwaysJustinTime
+32	14	Kael-Dragon Druid
+32	15	Quest Hunter
+32	16	Pirate Rogue
+32	17	Even Warlock
+32	19	Kael-Dragon Druid
+33	1	3-1
+33	2	ataraxial
+33	3	Kael-OTK Druid
+33	4	Even Hunter
+33	5	Secret Mage
+33	6	Even Warlock
+33	8	Mech Paladin
+33	10	3-2
+33	12	3-2
+33	13	Nice Jewish Owl
+33	14	Kael-OTK Druid
+33	15	Mech Paladin
+33	16	Pirate Rogue
+33	17	Odd Warrior
+33	19	Kael-OTK Druid
+34	1	3-2
+34	2	rebobson
+34	3	Kael-OTK Druid
+34	4	Switcheroo Priest
+34	5	Pirate Rogue
+34	6	Freeze Shaman
+34	8	Control Warrior
+34	10	3-1
+34	12	2-2
+34	13	MoleStar
+34	14	Kael-OTK Druid
+34	15	Quest Hunter
+34	16	Even Warlock
+34	17	Control Warrior
+34	19	Pirate Rogue
+35	1	4-1
+35	2	Itachi
+35	10	0-3
+35	12	2-2
+35	13	SuperChicken
+35	14	Kael-OTK Druid
+35	15	Quest Hunter
+35	16	Pirate Rogue
+35	17	Freeze Shaman
+36	1	Capt
+36	2	rebobson
+36	12	Capt
+36	13	AlwaysJustinTime
+37	0	WIN
+37	1	Wokege
+37	2	vs
+37	4	Round Earthers Going To Work
+38	6	57 pts
+38	7	2-2
+38	10	1-3
+38	11	49 pts
+39	8	14
+39	11	13
+40	1	Wokege
+40	2	Classes
+40	4	Ban
+40	6	 Score
+40	8	Round Earthers Going To Work
+40	9	Classes
+40	11	Ban
+42	1	3-1
+42	2	JordanMG
+42	3	Kael-OTK Druid
+42	4	Switcheroo Priest
+42	5	Pirate Rogue
+42	6	Freeze Shaman
+42	8	Pirate Rogue
+42	10	2-3
+42	12	2-2
+42	13	Lasagne
+42	14	Beast Hunter
+42	15	Pirate Rogue
+42	16	Cute Warlock
+42	17	Pirate Warrior
+42	19	Kael-OTK Druid
+43	1	2-2
+43	2	Memnarch
+43	3	Dragon Druid
+43	4	Pirate Rogue
+43	5	Freeze Shaman
+43	6	Even Warlock
+43	8	Kael-OTK Druid
+43	10	3-0
+43	12	2-2
+43	13	Cresselia
+43	14	Kael-OTK Druid
+43	15	Reno-Quest Mage
+43	16	Giants Priest
+43	17	Pain Warlock
+43	19	Even Warlock
+44	1	2-2
+44	2	otters
+44	3	Kael-Dragon Druid
+44	4	Aggro Priest
+44	5	Pirate Rogue
+44	6	Freeze Shaman
+44	8	Kael-Dragon Druid
+44	10	3-1
+44	12	2-2
+44	13	BattleTagger
+44	14	Kael-Dragon Druid
+44	15	Ignite Mage
+44	16	Shellfish Warlock
+44	17	Odd Warrior
+44	19	Freeze Shaman
+45	1	1-3
+45	2	Pace
+45	3	Kael-OTK Druid
+45	4	Switcheroo Priest
+45	5	Pirate Rogue
+45	6	Freeze Shaman
+45	8	Kael-OTK Druid
+45	10	2-3
+45	12	1-3
+45	13	MrLuke98
+45	14	Kael-OTK Druid
+45	15	Inner-Fire Priest
+45	16	Pillager Rogue
+45	17	Pain Warlock
+45	19	Switcheroo Priest
+46	1	1-3
+46	2	Hazer
+46	3	Quest Hunter
+46	4	Reno-Quest Mage
+46	5	Mech Paladin
+46	6	Freeze Shaman
+46	8	Kael-Dragon Druid
+46	10	2-3
+46	12	3-2
+46	13	Tom Carter
+46	14	Kael-Dragon Druid
+46	15	Quest Mage
+46	16	Giants Priest
+46	17	Pirate Rogue
+46	19	Freeze Shaman
+47	1	Capt
+47	2	JordanMG
+47	12	Capt
+47	13	Lasagne
+48	0	WIN
+48	1	The Weasil Tunnelers
+48	2	vs
+48	4	WTF
+49	6	51 pts
+49	7	1-2-1
+49	10	2-2
+49	11	61 pts
+50	8	12
+50	11	10
+51	1	The Weasil Tunnelers
+51	2	Classes
+51	4	Ban
+51	6	 Score
+51	8	WTF
+51	9	Classes
+51	11	Ban
+53	1	1-3
+53	2	RighteousJammies
+53	3	Quest Hunter
+53	4	Other Mage
+53	5	Mech Paladin
+53	6	Switcheroo Priest
+53	8	Kael-Dragon Druid
+53	10	0-3
+53	12	3-1
+53	13	Slaad
+53	14	Kael-Dragon Druid
+53	15	Pirate Rogue
+53	16	Freeze Shaman
+53	17	Even Warlock
+53	19	Quest Hunter
+54	1	2-2
+54	2	MortalWombat
+54	3	Mech Mage
+54	4	Mech Paladin
+54	5	Pirate Rogue
+54	6	DMH Warrior
+54	10	3-0
+54	12	1-3
+54	13	LaboreSangre
+55	1	1-3
+55	2	SKItLLeZ
+55	3	Quest Hunter
+55	4	Switcheroo Priest
+55	5	Pirate Rogue
+55	6	Pirate Warrior
+55	8	Even Hunter
+55	10	3-2
+55	12	2-2
+55	13	Schmoopiedady
+55	14	Odd Druid
+55	15	Even Hunter
+55	16	Secret Mage
+55	17	Aggro Priest
+55	19	Pirate Warrior
+56	1	0-1
+56	2	PWeasil
+56	3	Kael-OTK Druid
+56	4	Quest Hunter
+56	5	Mech Paladin
+56	6	Pirate Rogue
+56	8	Mech Paladin
+56	10	0-3
+56	12	3-1
+56	13	Nops
+56	14	Dragon Druid
+56	15	Mech Mage
+56	16	Mech Paladin
+56	17	Inner-Fire Priest
+56	19	Kael-OTK Druid
+57	1	2-3
+57	2	Nineeyebrows
+57	3	Kael-OTK Druid
+57	4	Quest Hunter
+57	5	Even Paladin
+57	6	Pirate Rogue
+57	8	Kael-OTK Druid
+57	10	3-0
+57	12	2-2
+57	13	BIoodRose
+57	14	Kael-OTK Druid
+57	15	Even Hunter
+57	16	Pirate Rogue
+57	17	Freeze Shaman
+57	19	Even Paladin
+58	1	Capt
+58	2	PWeasil
+58	12	Capt
+58	13	DoctorBOMD
+59	0	LOSS
+59	1	Round Earthers Going To Work
+59	2	vs
+59	4	Wokege
+60	6	49 pts
+60	7	1-3
+60	10	2-2
+60	11	57 pts
+61	8	13
+61	11	14
+62	1	Round Earthers Going To Work
+62	2	Classes
+62	4	Ban
+62	6	 Score
+62	8	Wokege
+62	9	Classes
+62	11	Ban
+64	1	2-2
+64	2	Lasagne
+64	3	Beast Hunter
+64	4	Pirate Rogue
+64	5	Cute Warlock
+64	6	Pirate Warrior
+64	8	Kael-OTK Druid
+64	10	3-2
+64	12	3-1
+64	13	JordanMG
+64	14	Kael-OTK Druid
+64	15	Switcheroo Priest
+64	16	Pirate Rogue
+64	17	Freeze Shaman
+64	19	Pirate Rogue
+65	1	2-2
+65	2	Cresselia
+65	3	Kael-OTK Druid
+65	4	Reno-Quest Mage
+65	5	Giants Priest
+65	6	Pain Warlock
+65	8	Even Warlock
+65	10	0-3
+65	12	2-2
+65	13	Memnarch
+65	14	Dragon Druid
+65	15	Pirate Rogue
+65	16	Freeze Shaman
+65	17	Even Warlock
+65	19	Kael-OTK Druid
+66	1	2-2
+66	2	BattleTagger
+66	3	Kael-Dragon Druid
+66	4	Ignite Mage
+66	5	Shellfish Warlock
+66	6	Odd Warrior
+66	8	Freeze Shaman
+66	10	1-3
+66	12	2-2
+66	13	otters
+66	14	Kael-Dragon Druid
+66	15	Aggro Priest
+66	16	Pirate Rogue
+66	17	Freeze Shaman
+66	19	Kael-Dragon Druid
+67	1	1-3
+67	2	MrLuke98
+67	3	Kael-OTK Druid
+67	4	Inner-Fire Priest
+67	5	Pillager Rogue
+67	6	Pain Warlock
+67	8	Switcheroo Priest
+67	10	3-2
+67	12	1-3
+67	13	Pace
+67	14	Kael-OTK Druid
+67	15	Switcheroo Priest
+67	16	Pirate Rogue
+67	17	Freeze Shaman
+67	19	Kael-OTK Druid
+68	1	3-2
+68	2	Tom Carter
+68	3	Kael-Dragon Druid
+68	4	Quest Mage
+68	5	Giants Priest
+68	6	Pirate Rogue
+68	8	Freeze Shaman
+68	10	3-2
+68	12	1-3
+68	13	Hazer
+68	14	Quest Hunter
+68	15	Reno-Quest Mage
+68	16	Mech Paladin
+68	17	Freeze Shaman
+68	19	Kael-Dragon Druid
+69	1	Capt
+69	2	Lasagne
+69	12	Capt
+69	13	JordanMG
+70	0	WIN
+70	1	Worldshakers
+70	2	vs
+70	4	The Worgen Greasers
+71	6	45 pts
+71	7	2-2
+71	10	0-4
+71	11	43 pts
+72	8	14
+72	11	11
+73	1	Worldshakers
+73	2	Classes
+73	4	Ban
+73	6	 Score
+73	8	The Worgen Greasers
+73	9	Classes
+73	11	Ban
+75	1	1-3
+75	2	Devalion
+75	3	Kael-OTK Druid
+75	4	Inner-Fire Priest
+75	5	Freeze Shaman
+75	6	Even Warlock
+75	8	Secret Hunter
+75	10	2-3
+75	12	3-2
+75	13	maxiebon1234
+75	14	Secret Hunter
+75	15	Other Mage
+75	16	Other Rogue
+75	17	Control Warrior
+75	19	Even Warlock
+76	1	3-2
+76	2	Gummbii
+76	3	Pirate Rogue
+76	4	Freeze Shaman
+76	5	Even Warlock
+76	6	Control Warrior
+76	8	Kael-OTK Druid
+76	10	3-1
+76	12	1-4
+76	13	Whodack
+76	14	Kael-OTK Druid
+76	15	Secret Hunter
+76	16	Quest Mage
+76	17	Aggro Priest
+76	19	Pirate Rogue
+77	1	0-4
+77	2	Pers
+77	3	Beast Hunter
+77	4	Quest Mage
+77	5	Kingsbane Rogue
+77	6	Frog Shaman
+77	8	Inner-Fire Priest
+77	10	0-3
+77	12	1-3
+77	13	JustConcede
+77	14	Beast Druid
+77	15	Other Hunter
+77	16	Inner-Fire Priest
+77	17	Pirate Rogue
+77	19	Kingsbane Rogue
+78	1	3-1
+78	2	Snapper (Risky Chance)
+78	3	Kael-OTK Druid
+78	4	Pirate Rogue
+78	5	Freeze Shaman
+78	6	Even Warlock
+78	8	Kael-OTK Druid
+78	10	3-1
+78	12	1-4
+78	13	Woodford
+78	14	Kael-OTK Druid
+78	15	Secret Hunter
+78	16	Mech Paladin
+78	17	Pirate Rogue
+78	19	Kael-OTK Druid
+79	1	1-4
+79	2	SiNF3RN0
+79	3	Kael-Dragon Druid
+79	4	Giants Priest
+79	5	Pirate Rogue
+79	6	Even Warlock
+79	8	Secret Hunter
+79	10	3-1
+79	12	1-3
+79	13	DankestDad
+79	14	Secret Hunter
+79	15	Other Mage
+79	16	Other Rogue
+79	17	Control Warrior
+79	19	Even Warlock
+80	1	Capt
+80	2	Copa
+80	12	Capt
+80	13	JustConcede
+81	4	Class
+81	5	Ban
+82	2	Selections
+82	3	DH
+82	4	0
+82	5	0
+83	3	Druid
+83	4	25
+83	5	12
+84	3	Hunter
+84	4	14
+84	5	4
+85	3	Mage
+85	4	10
+85	5	0
+86	3	Paladin
+86	4	7
+86	5	3
+87	3	Priest
+87	4	14
+87	5	2
+88	3	Rogue
+88	4	23
+88	5	3
+89	3	Shaman
+89	4	14
+89	5	2
+90	3	Warlock
+90	4	14
+90	5	1
+91	3	Warrior
+91	4	7
+91	5	2
