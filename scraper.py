@@ -19,7 +19,7 @@ def make_url(
     return f"https://www.teamhearthleague.com/{conference}-s{season}---{_week}.html"
 
 
-def scrape(conf, season, week) -> httpx.Response:
+def scrape(conf, season, week):
     url = make_url(conf, season, week)
     resp = httpx.get(url)
     if resp.status_code == 404:
